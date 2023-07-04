@@ -60,3 +60,8 @@ touch .husky/commit-msg && chmod a+x .husky/commit-msg
 
 npx commitlint --edit
 ~~~
+
+~~~bash
+#roda a release
+npm run release
+~~~
